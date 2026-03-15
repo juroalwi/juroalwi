@@ -1,16 +1,9 @@
 <img src="/banner.jpg" />
 
-## Hi there 👋
+### Hi there, I'm Julian 👋 
 
-I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina. I am currently finishing a licenciate's degree in __Math__ and a licentiate's degree in __Data Science__ at UBA university. I enjoy solving problems and learning new things every day.
+💻 Full stack developer with 4 years of experience  
+⚙️ TypeScript • NestJS • PostgreSQL • React  
+📚 Always learning and improving  
 
-## 🛠️ Tech stack
-
-- Typescript
-- Node.js
-- NestJS
-- PostgreSQL
-- React
-- Web3
-
-### [Personal website <img src="external-link.svg"/>](https://julian-alvarez-portfolio.vercel.app/)
+### [🌐 Portfolio](https://julian-alvarez-portfolio.vercel.app/)
