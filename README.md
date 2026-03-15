@@ -13,6 +13,4 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina. I am 
 - React
 - Web3
 
-## 🌐 Personal website
-
-[<img src="portfolio.svg"/>](https://julian-alvarez-portfolio.vercel.app/)
+### [Personal website <img src="external-link"/>](https://julian-alvarez-portfolio.vercel.app/)
